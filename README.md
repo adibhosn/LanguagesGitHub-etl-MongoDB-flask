@@ -19,7 +19,7 @@ A Flask REST API for extracting, processing, and analyzing programming language 
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/github-analysis.git
+https://github.com/yourusername/LanguagesGitHub-etl-MongoDB-flask.git
 cd github-analysis
 ```
 
